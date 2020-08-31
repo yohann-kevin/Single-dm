@@ -1,8 +1,8 @@
-# Perriguey yohann
+# Single DM
 
 ## Description 
 
-My CV
+Dynamic module
 
 ## running 
 
